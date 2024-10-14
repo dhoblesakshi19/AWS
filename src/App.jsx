@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <h1>NAMASKARAM</h1>
-      <h2>NAGPUR</h2>
+      <h2>NAGPUR hello how are u 
+        
+      </h2>
       
     </>
   )
